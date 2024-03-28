@@ -52,5 +52,5 @@ type = "png"
 # type = "jpg"
 saveas = "nonnigcat.txt"
 # saveas = "Free!.txt"
-if __name__ == "__main__":
-    asciiConvert(image, type, saveas, scale)
+
+asciiConvert(image, type, saveas, scale)
