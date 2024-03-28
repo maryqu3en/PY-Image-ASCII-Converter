@@ -49,4 +49,4 @@ Then run `main.py`:
 python main.py
 ```
 
-***Note:*** *The script may take some time to convert the image, depending on the size and complexity of the image.***
+***Note:*** *The script may take some time to convert the image, depending on the size and complexity of the image.*
